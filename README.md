@@ -13,8 +13,8 @@ The inability to access sufficient amounts of food is an issue that plagues popu
 ## ✅ How we can help 
 
 <div>
-  <img height="600" src="https://github.com/rushu570/-true/blob/master/aero.JPG" >
-  <img height="600" src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/hydro.JPG" >
+  <img height="300" src="https://github.com/rushu570/-true/blob/master/aero.JPG" >
+  <img height="300" src="https://github.com/rushu570/-true/blob/master/hydro.JPG" >
   <img height="600" src="https://github.com/rushu570/-true/blob/master/ponics.JPG" >
 </div>
 
