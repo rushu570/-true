@@ -13,20 +13,28 @@ The inability to access sufficient amounts of food is an issue that plagues popu
 ## ✅ How we can help 
 
 <div>
-  <img height="600" src="https://github.com/rushu570/-true/blob/master/hydro.JPG" >
+  <img height="600" src="https://github.com/rushu570/-true/blob/master/aero.JPG" >
   <img height="600" src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/hydro.JPG" >
+  <img height="600" src="https://github.com/rushu570/-true/blob/master/ponics.JPG" >
 </div>
 
-### For rooftop Farming
+### 🌳 For rooftop Farming
 
 * Rooftops farming is generally done using:
   * Hydroponics(a method of growing plants, usually crops, without soil, by using mineral nutrient solutions in an aqueous solvent).
   * Aeroponics(process of growing plants in an air or mist environment without the use of soil or an aggregate medium.)
   * Green rooftops
-- Benefits of using Hydroponics for farming: 
+  
+- 💥 Benefits of using Hydroponics for farming: 
    * 10x Less Water
    * 10x Less Land
    * 20% Less Cost
+   * 0% Artificial Fertilizers
+
+- 💥 Benefits of using Aeroponics for farming: 
+   * Stimulates plant growth by providing best air richenvironment.
+   * Requires no special Land
+   * Requires very less water and very less water wastage.
    * 0% Artificial Fertilizers
  
  ## 🌟 Features of our platform
